@@ -1,74 +1,60 @@
-<!-- Banner / Gif -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
+🚀 Hello, I'm Darshan B R 👨‍💻
 
-# 👋 Hi, I'm Darshan B R  
-### 💻 MERN Stack Developer | Software Engineer  
 
-🚀 Passionate about building **scalable web applications**  
-⚡ Love working with **React, Node.js, MongoDB, Express**  
-🌱 Exploring **Cloud, CI/CD, Recharts & Authentication**  
-🏏 Cricket enthusiast & lifelong learner  
 
----
+  
 
-## 🔗 Connect with Me  
-<p align="center">
-  <a href="mailto:mitdverma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/sigvitas-cse"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
 
----
+Software Engineer | MERN Stack Specialist  
+BCA Graduate (2025) • Full-Stack Innovator • Code Alchemist • Tech Explorer
 
-## 🧑‍💻 About Me  
-- 🔭 Working as **Software Engineer @ Sigvitas & Company**  
-- 🌱 Currently learning **advanced React + data visualization (Recharts)**  
-- ⚡ Experience: **Git, GitHub, CI/CD, REST APIs, JWT, Cloud Hosting**  
-- 🎯 Goal: Become a **Full-Stack Architect**  
 
----
+🔗 Connect with Me
 
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git,github,vscode,heroku,linux" />
-</p>
+  
+  
+  
+  
 
----
 
-## 📂 Featured Projects  
 
-### 🛒 Vegetable Shopping Website  
-👉 MERN stack + TailwindCSS shopping app with **interactive UI/UX**  
+👨‍💻 About Me
 
-### 📊 Excel File Comparison Tool  
-👉 Handles **50K+ records**, compares new vs old Excel data & exports results  
+💻 MERN Stack Enthusiast crafting production-ready, scalable web solutions using React, Node.js, Express, and MongoDB.  
+🎯 Specializing in RESTful APIs, JWT authentication, and optimized database schemas for high-performance applications.  
+🛠️ Currently engineering robust systems at Sigvitas and Company, pushing the boundaries of backend and frontend integration.  
+🌱 Diving deep into Cloud Infrastructure, DevOps, and microservices to elevate my skill set.  
+🔥 Fun Fact: Turning caffeine into code since 2023!
 
-### 🤖 Web Scraper (Python + MongoDB)  
-👉 Automated scraper using **PyMongo + Puppeteer/Selenium**  
 
----
+⚡ Tech Stack
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigvitas-cse&show_icons=true&theme=tokyonight" alt="stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigvitas-cse&layout=compact&theme=tokyonight" alt="langs" height="180" />
-</p>
+  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigvitas-cse&theme=tokyonight" alt="streak" />
-</p>
 
----
 
-## 🏆 Achievements & Certifications  
-✅ Full-Stack Development (MERN) – RankBook Mysore  
-✅ Cloud Computing Basics  
-✅ Data Structures & Algorithms  
+📊 GitHub Stats & Streaks
 
----
+  
+  
 
-## ⚡ Fun Fact  
-💡 *“Clean Code is better than Clever Code”*  
-🎮 Cricket lover | Tech Explorer | Lifelong Learner  
+
+
+🌟 Featured Projects
+
+📌 MERN CRUD App – A full-stack CRUD powerhouse with seamless React frontend, Express backend, and MongoDB integration, featuring real-time data sync.  
+📌 To-Do List App – A dynamic task manager built with React hooks and local storage, optimized for user productivity.  
+📌 Portfolio Website – A responsive showcase of my journey, styled with Tailwind CSS and deployed for global access.
+
+
+🎯 Achievements & Certifications
+
+🎓 Completed BCA from [Your College] in 2025.  
+🏆 Secured 2nd place in a college-level Technical Quiz Competition.  
+🌟 NSS Volunteer – Recognized as a Social Impact Contributor.
+
+
+💡 Fun Fact
+Backend is my battlefield, SQLAlchemy is my sword, and FastAPI is my shield. When I’m not coding, I’m gaming, exploring AI, and binge-watching tech documentaries!  
+
+✨ “Code. Optimize. Deploy. Innovate.”
