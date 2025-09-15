@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=darshanbr66&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">Software Engineer | MERN Stack Maestro</h1>  
+<h1 align="center">Software Engineer | MERN Stack Expert</h1>  
 <p align="center">
   <em>BSc Graduate (2024) • Full-Stack Visionary • Code Wizard • Tech Trailblazer</em>
 </p>
@@ -40,13 +40,13 @@
 ---
 
 ## 👨‍💻 About Me  
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvIAR8OVQ/giphy.gif" width="200" alt="Developer GIF" />
-</div>
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/5xtDarC7o2GIC3cDOw/giphy.gif" width="200" alt="Developer GIF" />
+</div> -->
 
 - 💻 **MERN Stack Enthusiast** architecting scalable, high-performance web apps with React, Node.js, Express, and MongoDB.  
 - 🎯 **Expertise in** RESTful APIs, JWT authentication, and optimized database designs for lightning-fast performance.  
-- 🛠️ **Currently at Sigvitas and Company**, driving innovation in backend-frontend synergy.  
+- 🛠️ **Currently at Sigvitas & Company**, driving innovation in backend-frontend synergy.  
 - 🌱 **Exploring** Cloud Infrastructure, DevOps pipelines, microservices, and advanced data visualization.  
 - 🔥 **Fun Fact:** Transforming coffee into code since 2023 – 500+ commits and counting!  
 
@@ -54,7 +54,7 @@
 
 ## ⚡ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,postman,aws,docker,jenkins" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,postman" alt="Tech Stack" />
 </p>
 
 ---
@@ -110,15 +110,15 @@
 ---
 
 ## 💡 Fun Fact  
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/3o7TKRNd5sUJ0YxLhK/giphy.gif" width="200" alt="Coffee GIF" />
-</div>
+</div> -->
 Backend is my battlefield, SQLAlchemy is my sword, and FastAPI is my shield. When I’m not coding, catch me gaming, diving into AI research, or marathoning tech docs!
 
 ---
 
 ## 📅 Latest Update  
-Last updated: **4:20 PM IST, September 15, 2025**  
+Last updated: **4:26 PM IST, September 15, 2025**  
 
 ---
 
