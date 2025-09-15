@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">Software Engineer | MERN Stack Specialist</h2>  
-<p align="center">BCA Graduate (2025) • Full-Stack Innovator • Code Alchemist • Tech Explorer</p>
+<p align="center">BSc Graduate (2024) • Full-Stack Innovator • Code Alchemist • Tech Explorer</p>
 
 ---
 
@@ -55,9 +55,7 @@
 ---
 
 ## 🎯 Achievements & Certifications  
-- 🎓 Completed **BCA** from [Your College] in 2025.  
-- 🏆 Secured 2nd place in a college-level **Technical Quiz Competition**.  
-- 🌟 NSS Volunteer – Recognized as a **Social Impact Contributor**.  
+- 🎓 Completed **BSc** from Mysore University in 2024.  
 
 ---
 
