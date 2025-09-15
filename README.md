@@ -13,7 +13,7 @@
 
 <h1 align="center">Software Engineer | MERN Stack Maestro</h1>  
 <p align="center">
-  <em>BCA Graduate (2025) • Full-Stack Visionary • Code Wizard • Tech Trailblazer</em>
+  <em>BSc Graduate (2024) • Full-Stack Visionary • Code Wizard • Tech Trailblazer</em>
 </p>
 
 ---
@@ -101,7 +101,7 @@
 ---
 
 ## 🎯 Achievements & Certifications  
-- 🎓 **BCA Graduate** from [Your College], 2025 – Honored with academic excellence.  
+- 🎓 **BSc Graduate** from University of Mysore, 2024 – Recognized for academic excellence.  
 - 🏆 **2nd Place** in College-Level Technical Quiz Competition.  
 - 🌟 **NSS Volunteer** – Awarded **Social Impact Contributor** for community service.  
 - ✅ **AWS Certified Solutions Architect** – Associate level (2024).  
@@ -118,7 +118,7 @@ Backend is my battlefield, SQLAlchemy is my sword, and FastAPI is my shield. Whe
 ---
 
 ## 📅 Latest Update  
-Last updated: **4:15 PM IST, September 15, 2025**  
+Last updated: **4:20 PM IST, September 15, 2025**  
 
 ---
 
