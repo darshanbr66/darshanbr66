@@ -1,7 +1,7 @@
 # 🚀 Greetings! I'm Darshan B R 👨‍💻  
 
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-brightgreen?style=for-the-badge)]([https://example.com/resume.pdf](https://github.com/darshanbr66/Darshan-Portfolio/raw/main/Darshan-Resume.pdf
-))  
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-brightgreen?style=for-the-badge)](https://github.com/darshanbr66/Darshan-Portfolio/raw/main/Darshan-Resume.pdf)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/darshanbr66?style=for-the-badge&label=Follow)](https://twitter.com/darshanbr66)
 
 ---
