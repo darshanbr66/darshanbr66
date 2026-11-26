@@ -92,7 +92,7 @@
     <td valign="top" width="33%">
       <div align="center">
         <img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Portfolio Icon" />
-        <h3><a href="https://github.com/darshanbr66/Portfolio">Portfolio Website</a></h3>
+        <h3><a href="https://darshanbr.vercel.app">Portfolio Website</a></h3>
         <p>A responsive portfolio built with Tailwind CSS, showcasing my skills and projects.</p>
       </div>
     </td>
