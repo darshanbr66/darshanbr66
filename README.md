@@ -21,7 +21,7 @@
 
 ## 🔗 Connect with Me  
 <p align="center">
-  <a href="mailto:mitdverma@gmail.com">
+  <a href="mailto:darshanbr36@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/darshan-b-r-94ab92269/">
