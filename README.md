@@ -30,7 +30,7 @@
   <a href="https://github.com/darshanbr66">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://darshanbr66.github.io/Darshan-Portfolio">
+  <a href="https://darshanbr.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://twitter.com/darshanbr66">
